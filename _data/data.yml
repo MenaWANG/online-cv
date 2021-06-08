@@ -65,6 +65,10 @@ education:
       university: Peking University
       time: 1997 - 2001
       
+    - degree: BSc in Economics (Double Degree)
+      university: Peking University
+      time: 1997 - 2001
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -162,20 +166,23 @@ skills:
       - name: Data Wrangling with R
         level: 98%
 
-      - name: Data Analysis with R
+      - name: Statistical Analysis with R
         level: 98%
+      
+      - name: Machine Learning with R
+        level: 70%
+        
+      - name: BI Dashboarding
+        level: 90%
 
       - name: SQL through SQLite
         level: 70%
 
       - name: Data Visualization with Python
         level: 85%
-
-      - name: Tableau
-        level: 60%
-        
-      - name: Alteryx 
-        level: 60%
+     
+      - name: Alteryx (Core Certified)
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
