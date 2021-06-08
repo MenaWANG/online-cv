@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ningwang25@gmail.com
     phone: (61) 402 040 902
-    Tableau: public.tableau.com/profile/mena.wang #do not add http://
+    website: public.tableau.com/profile/mena.wang #do not add http://
     linkedin: mena-ning-wang
     xing: 
     github: MenaWANG
@@ -50,7 +50,7 @@ career-profile:
     title: Career Profile
     summary: |
       Having taught data skills for 6 years and authored two textbooks in the field,
-      with expertise in statistical analysis and machine learning models,
+      with expertise in data visualization, statistical analysis and machine learning models,
       I seek a career that leverages data to make a difference!
 education:
     - degree: PhD in Media and Communication
