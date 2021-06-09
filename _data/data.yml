@@ -57,6 +57,9 @@ skills:
     toolset:
       - name: Data Visualization with R
         level: 98%
+        
+      - name: Data Visualization with Python
+        level: 85%
 
       - name: Data Wrangling with R
         level: 98%
@@ -77,11 +80,8 @@ skills:
         level: 85%
 
       - name: SQL through SQLite
-        level: 75%
-
-      - name: Data Visualization with Python
         level: 85%
-     
+   
       - name: Alteryx (Core Certified)
         level: 50%
         
