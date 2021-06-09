@@ -26,25 +26,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Mandarin
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-      - idiom: Cantonese
-        level: Professional
-
-    interests:
-      - item: DataViz
-        link:
-
-      - item: Reading
-        link:
-
-      - item: Puppy training
-        link:
 
 career-profile:
     title: Career Profile
@@ -52,6 +33,7 @@ career-profile:
       Having taught data skills for 6 years and authored two textbooks in the field,
       with expertise in data visualization, statistical analysis and machine learning models,
       I seek a career that leverages data to make a difference!
+
 education:
     - degree: PhD in Media and Communication
       university: Hong Kong Baptist University
@@ -85,8 +67,14 @@ skills:
       - name: Machine Learning with R
         level: 70%
         
-      - name: BI Dashboarding
-        level: 90%
+      - name: Statistical Analysis with SPSS
+        level: 95%
+        
+      - name: BI Dashboarding with R
+        level: 95%
+        
+      - name: BI Dashboarding with Tableau
+        level: 85%
 
       - name: SQL through SQLite
         level: 70%
