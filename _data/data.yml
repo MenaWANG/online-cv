@@ -73,7 +73,7 @@ skills:
       - name: BI Dashboarding with Tableau
         level: 85%
 
-      - name: SQL through SQLite
+      - name: SQL through RSQLite
         level: 90%
    
       - name: Alteryx (Core Certified)
