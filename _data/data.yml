@@ -47,10 +47,7 @@ education:
       university: Peking University
       time: 1997 - 2001
       
-    - degree: BSc in Economics (Double Degree)
-      university: Peking University
-      time: 1997 - 2001
-      
+    
 skills:
     title: Skills &amp; Proficiency
 
@@ -68,11 +65,8 @@ skills:
         level: 98%
       
       - name: Machine Learning with R
-        level: 75%
-        
-      - name: Statistical Analysis with SPSS
-        level: 98%
-        
+        level: 75%        
+      
       - name: BI Dashboarding with R
         level: 98%
         
@@ -83,7 +77,10 @@ skills:
         level: 85%
    
       - name: Alteryx (Core Certified)
-        level: 50%
+        level: 60%
+        
+      - name: Statistical Analysis with SPSS
+        level: 98%
         
       - name: Mentoring and Skill Coaching
         level: 98%
