@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Having taught data skills for 6 years and authored two textbooks in the field,
+      Having taught data skills at the graduate level for 6 years and authored two textbooks in the field,
       with expertise in data visualization, statistical analysis and machine learning models,
       I seek a career that leverages data to make a difference!
 
@@ -70,10 +70,13 @@ skills:
       - name: BI Dashboarding with R
         level: 98%
         
+      - name: BI Dashboarding with Power BI (R Integrated)
+        level: 90%
+        
       - name: BI Dashboarding with Tableau
         level: 85%
 
-      - name: SQL through RSQLite
+      - name: SQL & RSQLite
         level: 90%
    
       - name: Alteryx (Core Certified)
