@@ -70,10 +70,10 @@ skills:
       - name: BI Dashboarding with Shiny
         level: 98%
         
-      - name: BI Dashboarding with Power BI (R Integrated)
+      - name: Power BI (R Integrated)
         level: 90%
         
-      - name: BI Dashboarding with Tableau
+      - name: Tableau
         level: 85%
 
       - name: SQL & RSQLite
