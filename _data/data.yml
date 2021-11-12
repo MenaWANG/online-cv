@@ -64,11 +64,11 @@ skills:
       - name: Statistical Analysis
         level: 98%
       
-      - name: Machine Learning
-        level: 90%        
+      - name: Supervised Learning
+        level: 98%        
       
-      - name: BI Dashboarding with Shiny
-        level: 98%
+      - name: Unsupervised Learning
+        level: 50%
         
       - name: Power BI (R Integrated)
         level: 90%
@@ -77,7 +77,7 @@ skills:
         level: 85%
 
       - name: SQL & RSQLite
-        level: 90%
+        level: 80%
    
       - name: Alteryx (Core Certified)
         level: 60%
